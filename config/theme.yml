@@ -1,7 +1,7 @@
 ---
-name: Classic
-author: Posthaven
-url: https//posthaven.com/
+name: jxq.me
+author: jxq
+url: https//jxq.me/
 posts_per_page:
   include_in_settings: false
   default: 10
